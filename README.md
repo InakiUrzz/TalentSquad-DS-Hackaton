@@ -10,4 +10,4 @@ ___
 - Pandas
 - Numpy
 - Scikit Learn
-- CatBoostton
+- CatBoost
